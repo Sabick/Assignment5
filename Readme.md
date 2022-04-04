@@ -22,7 +22,7 @@ This project requires the dataset named leuanalysisNew1.csv </p>
 
 <Li>matplotlib</li>
 
-<p>sklearn is also used</p>
+<Li>sklearn </Li>
 
 
 
